@@ -5,7 +5,7 @@ I'm a student of Computer Science passionate about fields such as Data Science a
 
 <p align="left">
     <a href="https://www.instagram.com/2k5adil/">
-         <img alt="Instagram account" title="Contact me on Instagram" src="https://custom-icon-badges.demolab.com/instagram-with-circle.svg?logo=instagram-pour-me"/></a> 
+         <img alt="Instagram account" title="Contact me on Instagram" src="https://custom-icon-badges.demolab.com?logo=instagram-pour-me"/></a> 
 </p>
 ---
 
