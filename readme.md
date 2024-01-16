@@ -1,7 +1,7 @@
 
 **`Computer Science Student`**
 
-I'm a student of Computer Science passionate about fields such as Data Science and Machine Learning.Each coding project is meticulously crafted, commencing with comprehensive planning and design, and eventually leading up to solving real-life problems. Ever since embarking on my journey as a Computer Science student, I have had a strong desire to contribute to advancements in the field of data science and channel this passion into forging a successful and meaningful career.
+I'm a student of Computer Science passionate about fields such as Data Science and Machine Learning. Each coding project is meticulously crafted, commencing with comprehensive planning and design, and eventually leading up to solving real-life problems. Ever since embarking on my journey as a Computer Science student, I have had a strong desire to contribute to advancements in the field of data science and channel this passion into forging a successful and meaningful career.
 
 <p align="left">
     <a href="https://www.instagram.com/2k5adil/">
